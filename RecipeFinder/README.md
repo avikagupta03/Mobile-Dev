@@ -20,11 +20,8 @@ The app currently consists of the following screens:
    - Displays recipes based on the provided ingredients.  
    - Each recipe is shown with its title, thumbnail, and a "View Recipe Details" button for detailed instructions.  
 
----
+*MealDB API : [https://www.themealdb.com/](https://www.themealdb.com/)*
 
-MealDB API : [https://www.themealdb.com/](https://www.themealdb.com/)
-
----
 
 ## **Objective for Contributors**  
 This project welcomes contributions from developers of all skill levels. Whether you're new to open source or an experienced developer, there’s something for everyone.  
@@ -55,9 +52,9 @@ This project welcomes contributions from developers of all skill levels. Whether
    cd RecipeFinder
    ```
 4. Install dependencies:
-  ```bash
-  flutter pub get
-  ```
+   ```bash
+   flutter pub get
+   ```
 5. Run the app:
    ```bash
    flutter run
