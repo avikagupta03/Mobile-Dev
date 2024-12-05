@@ -58,4 +58,4 @@ This project welcomes contributions from developers of all skill levels. Whether
 5. Run the app:
    ```bash
    flutter run
-  ```
+   ```
