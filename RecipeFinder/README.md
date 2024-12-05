@@ -39,7 +39,6 @@ This project welcomes contributions from developers of all skill levels. Whether
 5. **Add a Footer:** Include a footer on every screen with app and project details (e.g., "Powered by TheMealDB API").  
 6. **Menu Drawer:** Implement a navigation drawer to allow easy toggling between screens.  
 
----
 
 ## **Setup**  
 1. Ensure you have **Flutter** and **Dart** installed on your system.  
