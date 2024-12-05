@@ -19,8 +19,11 @@ The app currently consists of the following screens:
 3. **Recipe Display Screen:**  
    - Displays recipes based on the provided ingredients.  
    - Each recipe is shown with its title, thumbnail, and a "View Recipe Details" button for detailed instructions.  
+
 ---
-**MealDB API : [https://www.themealdb.com/](https://www.themealdb.com/) **
+
+MealDB API : [https://www.themealdb.com/](https://www.themealdb.com/)
+
 ---
 
 ## **Objective for Contributors**  
