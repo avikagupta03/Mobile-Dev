@@ -20,7 +20,19 @@ A sleek and easy-to-use app that calculates Body Mass Index (BMI) based on user 
 - Input height and weight to calculate BMI instantly.  
 - Display BMI category (e.g., underweight, normal, overweight, obese).  
 - Minimalistic and user-friendly UI.  
-- Future plans include incorporating fitness tips and progress tracking features.  
+- Future plans include incorporating fitness tips and progress tracking features.
+
+### **3. Real-Time Emotion Detector**  
+**Description:**  
+A powerful application that detects and classifies seven human emotions (happy, sad, surprise, angry, neutral, disgust) in real time using video input. Built with Python, it leverages OpenCV and a Convolutional Neural Network (CNN) for robust emotion analysis. 
+
+**Features:**  
+- Detects seven distinct emotions from real-time video feeds.
+- Uses a trained CNN model for emotion classification.
+- Integrates OpenCV for seamless real-time video processing.
+- Simple Python-based implementation, ensuring modularity and ease of updates.
+- Designed to work with essential libraries like TensorFlow/Keras, NumPy, and Matplotlib.
+
 
 ### **3. TaskTastic - Task Manager**  
 **Description:**  
